@@ -1,0 +1,7 @@
+path: C:/Users/KEN/Desktop/DSI/Mood Detection Activity/face_identity_dataset/yolo_ready
+train: train/images
+val: val/images
+
+names:
+  0: MyFace
+  1: OtherFace

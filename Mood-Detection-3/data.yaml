@@ -1,0 +1,15 @@
+names:
+- Angry
+- Confused
+- Happy
+- Sad
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: mood-detection-5jdqf
+  url: https://universe.roboflow.com/proj-pd-xd/mood-detection-5jdqf/dataset/3
+  version: 3
+  workspace: proj-pd-xd
+test: ../test/images
+train: ../train/images
+val: ../valid/images
